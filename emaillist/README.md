@@ -1,4 +1,4 @@
-# Power Automate - Send Newsletter
+# Power Automate - Email List - Bulk Email
 
 Code to cleanup the Select Json into a clean email format for sending email.
 
