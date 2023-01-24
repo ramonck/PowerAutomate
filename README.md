@@ -1,7 +1,7 @@
 # PowerAutomate
 
 Repository with examples of Power Automate from youtube videos.
-Channel: [https://www.youtube.com/channel/UC2iVmhfcorecnF5yKdl6VXA](https://www.youtube.com/@ramonck)
+Channel: https://www.youtube.com/@ramonck
 
 groupmail - Sharepoint Group, get the emails from that group.
 
